@@ -1,0 +1,1949 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <GSUB>
+    <Version value="1.0"/>
+    <ScriptList>
+      <!-- ScriptCount=2 -->
+      <ScriptRecord index="0">
+        <ScriptTag value="mlm2"/>
+        <Script>
+          <DefaultLangSys>
+            <ReqFeatureIndex value="65535"/>
+            <!-- FeatureCount=6 -->
+            <FeatureIndex index="0" value="0"/>
+            <FeatureIndex index="1" value="6"/>
+            <FeatureIndex index="2" value="1"/>
+            <FeatureIndex index="3" value="7"/>
+            <FeatureIndex index="4" value="3"/>
+            <FeatureIndex index="5" value="9"/>
+          </DefaultLangSys>
+          <!-- LangSysCount=0 -->
+        </Script>
+      </ScriptRecord>
+      <ScriptRecord index="1">
+        <ScriptTag value="mlym"/>
+        <Script>
+          <DefaultLangSys>
+            <ReqFeatureIndex value="65535"/>
+            <!-- FeatureCount=5 -->
+            <FeatureIndex index="0" value="5"/>
+            <FeatureIndex index="1" value="2"/>
+            <FeatureIndex index="2" value="8"/>
+            <FeatureIndex index="3" value="4"/>
+            <FeatureIndex index="4" value="10"/>
+          </DefaultLangSys>
+          <!-- LangSysCount=0 -->
+        </Script>
+      </ScriptRecord>
+    </ScriptList>
+    <FeatureList>
+      <!-- FeatureCount=11 -->
+      <FeatureRecord index="0">
+        <FeatureTag value="akhn"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="1">
+        <FeatureTag value="blwf"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="2"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="2">
+        <FeatureTag value="blwf"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="18"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="3">
+        <FeatureTag value="blws"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="4"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="4">
+        <FeatureTag value="blws"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="20"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="5">
+        <FeatureTag value="half"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="17"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="6">
+        <FeatureTag value="pref"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="1"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="7">
+        <FeatureTag value="pstf"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="3"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="8">
+        <FeatureTag value="pstf"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="19"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="9">
+        <FeatureTag value="psts"/>
+        <Feature>
+          <!-- LookupCount=6 -->
+          <LookupListIndex index="0" value="6"/>
+          <LookupListIndex index="1" value="8"/>
+          <LookupListIndex index="2" value="10"/>
+          <LookupListIndex index="3" value="12"/>
+          <LookupListIndex index="4" value="13"/>
+          <LookupListIndex index="5" value="15"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="10">
+        <FeatureTag value="psts"/>
+        <Feature>
+          <!-- LookupCount=7 -->
+          <LookupListIndex index="0" value="22"/>
+          <LookupListIndex index="1" value="23"/>
+          <LookupListIndex index="2" value="26"/>
+          <LookupListIndex index="3" value="28"/>
+          <LookupListIndex index="4" value="30"/>
+          <LookupListIndex index="5" value="31"/>
+          <LookupListIndex index="6" value="33"/>
+        </Feature>
+      </FeatureRecord>
+    </FeatureList>
+    <LookupList>
+      <!-- LookupCount=35 -->
+      <Lookup index="0">
+        <LookupType value="4"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <LigatureSubst index="0" Format="1">
+          <LigatureSet glyph="uni0D15">
+            <Ligature components="uni0D4D,uni0D15" glyph="glyph00148"/>
+            <Ligature components="uni0D4D,uni0D24" glyph="glyph00149"/>
+            <Ligature components="uni0D4D,uni0D37" glyph="glyph00152"/>
+            <Ligature components="uni0D4D,afii301" glyph="uni0D7F"/>
+            <Ligature components="afii301,uni0D4D,uni0D1F" glyph="glyph00150"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0D17">
+            <Ligature components="uni0D4D,uni0D17" glyph="glyph00153"/>
+            <Ligature components="uni0D4D,uni0D26" glyph="glyph00154"/>
+            <Ligature components="uni0D4D,uni0D28" glyph="glyph00156"/>
+            <Ligature components="uni0D4D,uni0D2E" glyph="glyph00155"/>
+            <Ligature components="afii301,uni0D4D,uni0D26" glyph="glyph00154"/>
+            <Ligature components="afii301,uni0D4D,uni0D28" glyph="glyph00156"/>
+            <Ligature components="afii301,uni0D4D,uni0D2E" glyph="glyph00155"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0D19">
+            <Ligature components="uni0D4D,uni0D15" glyph="glyph00158"/>
+            <Ligature components="uni0D4D,uni0D19" glyph="glyph00159"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0D1A">
+            <Ligature components="uni0D4D,uni0D1A" glyph="glyph00160"/>
+            <Ligature components="uni0D4D,uni0D1B" glyph="glyph00161"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0D1C">
+            <Ligature components="uni0D4D,uni0D1C" glyph="glyph00162"/>
+            <Ligature components="uni0D4D,uni0D1E" glyph="glyph00163"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0D1E">
+            <Ligature components="uni0D4D,uni0D1A" glyph="glyph00164"/>
+            <Ligature components="uni0D4D,uni0D1B" glyph="glyph00165"/>
+            <Ligature components="uni0D4D,uni0D1C" glyph="glyph00166"/>
+            <Ligature components="uni0D4D,uni0D1E" glyph="glyph00167"/>
+            <Ligature components="afii301,uni0D4D,uni0D1B" glyph="glyph00165"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0D1F">
+            <Ligature components="uni0D4D,uni0D1F" glyph="glyph00168"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0D21">
+            <Ligature components="uni0D4D,uni0D21" glyph="glyph00169"/>
+            <Ligature components="uni0D4D,uni0D22" glyph="glyph00170"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0D23">
+            <Ligature components="uni0D4D,uni0D1F" glyph="glyph00175"/>
+            <Ligature components="uni0D4D,uni0D21" glyph="glyph00171"/>
+            <Ligature components="uni0D4D,uni0D22" glyph="glyph00172"/>
+            <Ligature components="uni0D4D,uni0D23" glyph="glyph00174"/>
+            <Ligature components="uni0D4D,uni0D2E" glyph="glyph00173"/>
+            <Ligature components="uni0D4D,afii301" glyph="uni0D7A"/>
+            <Ligature components="afii301,uni0D4D,uni0D22" glyph="glyph00172"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0D24">
+            <Ligature components="uni0D4D,uni0D24" glyph="glyph00180"/>
+            <Ligature components="uni0D4D,uni0D25" glyph="glyph00182"/>
+            <Ligature components="uni0D4D,uni0D28" glyph="glyph00176"/>
+            <Ligature components="uni0D4D,uni0D2D" glyph="glyph00177"/>
+            <Ligature components="uni0D4D,uni0D2E" glyph="glyph00178"/>
+            <Ligature components="uni0D4D,uni0D38" glyph="glyph00179"/>
+            <Ligature components="afii301,uni0D4D,uni0D2D" glyph="glyph00177"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0D26">
+            <Ligature components="uni0D4D,uni0D26" glyph="glyph00184"/>
+            <Ligature components="uni0D4D,uni0D27" glyph="glyph00185"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0D28">
+            <Ligature components="uni0D4D,uni0D24" glyph="glyph00191"/>
+            <Ligature components="uni0D4D,uni0D25" glyph="glyph00192"/>
+            <Ligature components="uni0D4D,uni0D26" glyph="glyph00186"/>
+            <Ligature components="uni0D4D,uni0D27" glyph="glyph00187"/>
+            <Ligature components="uni0D4D,uni0D28" glyph="glyph00188"/>
+            <Ligature components="uni0D4D,uni0D2E" glyph="glyph00189"/>
+            <Ligature components="uni0D4D,uni0D31" glyph="glyph00190"/>
+            <Ligature components="uni0D4D,afii301,uni0D31" glyph="glyph00190"/>
+            <Ligature components="uni0D4D,afii301" glyph="uni0D7B"/>
+            <Ligature components="afii301,uni0D4D,uni0D25" glyph="glyph00192"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0D2A">
+            <Ligature components="uni0D4D,uni0D2A" glyph="glyph00193"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0D2C">
+            <Ligature components="uni0D4D,uni0D2C" glyph="glyph00196"/>
+            <Ligature components="afii301,uni0D4D,uni0D26" glyph="glyph00197"/>
+            <Ligature components="afii301,uni0D4D,uni0D27" glyph="glyph00198"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0D2E">
+            <Ligature components="uni0D4D,uni0D2A" glyph="glyph00201"/>
+            <Ligature components="uni0D4D,uni0D2E" glyph="glyph00200"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0D30">
+            <Ligature components="uni0D4D,afii301" glyph="uni0D7C"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0D31">
+            <Ligature components="uni0D4D,uni0D31" glyph="glyph00204"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0D32">
+            <Ligature components="uni0D4D,uni0D2A" glyph="glyph00205"/>
+            <Ligature components="uni0D4D,afii301" glyph="uni0D7D"/>
+            <Ligature components="afii301,uni0D4D,uni0D2A" glyph="glyph00205"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0D33">
+            <Ligature components="uni0D4D,uni0D33" glyph="glyph00207"/>
+            <Ligature components="uni0D4D,afii301" glyph="uni0D7E"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0D36">
+            <Ligature components="uni0D4D,uni0D1A" glyph="glyph00210"/>
+            <Ligature components="uni0D4D,uni0D1B" glyph="glyph00211"/>
+            <Ligature components="uni0D4D,uni0D36" glyph="glyph00212"/>
+            <Ligature components="afii301,uni0D4D,uni0D1B" glyph="glyph00211"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0D37">
+            <Ligature components="afii301,uni0D4D,uni0D1F" glyph="glyph00214"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0D38">
+            <Ligature components="uni0D4D,uni0D25" glyph="glyph00217"/>
+            <Ligature components="uni0D4D,uni0D31,uni0D4D,uni0D31" glyph="glyph00215"/>
+            <Ligature components="uni0D4D,uni0D38" glyph="glyph00216"/>
+            <Ligature components="afii301,uni0D4D,uni0D25" glyph="glyph00217"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0D39">
+            <Ligature components="uni0D4D,uni0D28" glyph="glyph00220"/>
+            <Ligature components="uni0D4D,uni0D2E" glyph="glyph00219"/>
+            <Ligature components="afii301,uni0D4D,uni0D28" glyph="glyph00220"/>
+            <Ligature components="afii301,uni0D4D,uni0D2E" glyph="glyph00219"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0D7B">
+            <Ligature components="uni0D4D,uni0D31" glyph="glyph00190"/>
+          </LigatureSet>
+        </LigatureSubst>
+      </Lookup>
+      <Lookup index="1">
+        <LookupType value="4"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <LigatureSubst index="0" Format="1">
+          <LigatureSet glyph="uni0D4D">
+            <Ligature components="uni0D30" glyph="glyph00147"/>
+          </LigatureSet>
+        </LigatureSubst>
+      </Lookup>
+      <Lookup index="2">
+        <LookupType value="4"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <LigatureSubst index="0" Format="1">
+          <LigatureSet glyph="uni0D4D">
+            <Ligature components="uni0D32" glyph="glyph00143"/>
+          </LigatureSet>
+        </LigatureSubst>
+      </Lookup>
+      <Lookup index="3">
+        <LookupType value="4"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <LigatureSubst index="0" Format="1">
+          <LigatureSet glyph="uni0D4D">
+            <Ligature components="uni0D2F" glyph="glyph00145"/>
+            <Ligature components="uni0D35" glyph="glyph00146"/>
+          </LigatureSet>
+        </LigatureSubst>
+      </Lookup>
+      <Lookup index="4">
+        <LookupType value="6"/>
+        <LookupFlag value="512"/>
+        <!-- SubTableCount=1 -->
+        <ChainContextSubst index="0" Format="1">
+          <Coverage Format="1">
+            <Glyph value="glyph00143"/>
+          </Coverage>
+          <!-- ChainSubRuleSetCount=1 -->
+          <ChainSubRuleSet index="0">
+            <!-- ChainSubRuleCount=2 -->
+            <ChainSubRule index="0">
+              <!-- BacktrackGlyphCount=1 -->
+              <Backtrack index="0" value="glyph00143"/>
+              <!-- InputGlyphCount=1 -->
+              <!-- LookAheadGlyphCount=0 -->
+              <!-- SubstCount=1 -->
+              <SubstLookupRecord index="0">
+                <SequenceIndex value="0"/>
+                <LookupListIndex value="5"/>
+              </SubstLookupRecord>
+            </ChainSubRule>
+            <ChainSubRule index="1">
+              <!-- BacktrackGlyphCount=1 -->
+              <Backtrack index="0" value="glyph00144"/>
+              <!-- InputGlyphCount=1 -->
+              <!-- LookAheadGlyphCount=0 -->
+              <!-- SubstCount=1 -->
+              <SubstLookupRecord index="0">
+                <SequenceIndex value="0"/>
+                <LookupListIndex value="5"/>
+              </SubstLookupRecord>
+            </ChainSubRule>
+          </ChainSubRuleSet>
+        </ChainContextSubst>
+      </Lookup>
+      <Lookup index="5">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="glyph00143" out="glyph00144"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="6">
+        <LookupType value="6"/>
+        <LookupFlag value="512"/>
+        <!-- SubTableCount=1 -->
+        <ChainContextSubst index="0" Format="2">
+          <Coverage Format="1">
+            <Glyph value="uni0D4D"/>
+          </Coverage>
+          <BacktrackClassDef Format="2">
+            <ClassDef glyph="uni0D31" class="1"/>
+            <ClassDef glyph="uni0D34" class="1"/>
+          </BacktrackClassDef>
+          <InputClassDef Format="2">
+            <ClassDef glyph="uni0D33" class="2"/>
+            <ClassDef glyph="uni0D4D" class="1"/>
+          </InputClassDef>
+          <LookAheadClassDef Format="1">
+            <ClassDef glyph="uni0000" class="1"/>
+          </LookAheadClassDef>
+          <!-- ChainSubClassSetCount=3 -->
+          <ChainSubClassSet index="1">
+            <!-- ChainSubClassRuleCount=1 -->
+            <ChainSubClassRule index="0">
+              <!-- BacktrackGlyphCount=1 -->
+              <Backtrack index="0" value="1"/>
+              <!-- InputGlyphCount=2 -->
+              <Input index="0" value="2"/>
+              <!-- LookAheadGlyphCount=0 -->
+              <!-- SubstCount=1 -->
+              <SubstLookupRecord index="0">
+                <SequenceIndex value="0"/>
+                <LookupListIndex value="7"/>
+              </SubstLookupRecord>
+            </ChainSubClassRule>
+          </ChainSubClassSet>
+        </ChainContextSubst>
+      </Lookup>
+      <Lookup index="7">
+        <LookupType value="4"/>
+        <LookupFlag value="512"/>
+        <!-- SubTableCount=1 -->
+        <LigatureSubst index="0" Format="1">
+          <LigatureSet glyph="uni0D4D">
+            <Ligature components="uni0D33" glyph="glyph00143"/>
+          </LigatureSet>
+        </LigatureSubst>
+      </Lookup>
+      <Lookup index="8">
+        <LookupType value="5"/>
+        <LookupFlag value="512"/>
+        <!-- SubTableCount=1 -->
+        <ContextSubst index="0" Format="1">
+          <Coverage Format="1">
+            <Glyph value="uni0D33"/>
+            <Glyph value="glyph00207"/>
+          </Coverage>
+          <!-- SubRuleSetCount=2 -->
+          <SubRuleSet index="0">
+            <!-- SubRuleCount=1 -->
+            <SubRule index="0">
+              <!-- GlyphCount=2 -->
+              <!-- SubstCount=1 -->
+              <Input index="0" value="glyph00143"/>
+              <SubstLookupRecord index="0">
+                <SequenceIndex value="1"/>
+                <LookupListIndex value="9"/>
+              </SubstLookupRecord>
+            </SubRule>
+          </SubRuleSet>
+          <SubRuleSet index="1">
+            <!-- SubRuleCount=1 -->
+            <SubRule index="0">
+              <!-- GlyphCount=2 -->
+              <!-- SubstCount=1 -->
+              <Input index="0" value="glyph00143"/>
+              <SubstLookupRecord index="0">
+                <SequenceIndex value="1"/>
+                <LookupListIndex value="9"/>
+              </SubstLookupRecord>
+            </SubRule>
+          </SubRuleSet>
+        </ContextSubst>
+      </Lookup>
+      <Lookup index="9">
+        <LookupType value="2"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <MultipleSubst index="0" Format="1">
+          <Coverage Format="1">
+            <Glyph value="glyph00143"/>
+          </Coverage>
+          <!-- SequenceCount=1 -->
+          <Sequence index="0">
+            <!-- GlyphCount=2 -->
+            <Substitute index="0" value="uni0D4D"/>
+            <Substitute index="1" value="uni0D32"/>
+          </Sequence>
+        </MultipleSubst>
+      </Lookup>
+      <Lookup index="10">
+        <LookupType value="6"/>
+        <LookupFlag value="512"/>
+        <!-- SubTableCount=1 -->
+        <ChainContextSubst index="0" Format="2">
+          <Coverage Format="1">
+            <Glyph value="uni0D62"/>
+            <Glyph value="uni0D63"/>
+            <Glyph value="glyph00143"/>
+            <Glyph value="glyph00150"/>
+            <Glyph value="glyph00153"/>
+            <Glyph value="glyph00160"/>
+            <Glyph value="glyph00161"/>
+            <Glyph value="glyph00168"/>
+            <Glyph value="glyph00169"/>
+            <Glyph value="glyph00170"/>
+            <Glyph value="glyph00174"/>
+            <Glyph value="glyph00184"/>
+            <Glyph value="glyph00193"/>
+            <Glyph value="glyph00196"/>
+            <Glyph value="glyph00197"/>
+            <Glyph value="glyph00198"/>
+            <Glyph value="glyph00204"/>
+            <Glyph value="glyph00205"/>
+            <Glyph value="glyph00212"/>
+            <Glyph value="glyph00214"/>
+            <Glyph value="glyph00215"/>
+            <Glyph value="glyph00216"/>
+          </Coverage>
+          <BacktrackClassDef Format="1">
+            <ClassDef glyph="glyph00190" class="1"/>
+          </BacktrackClassDef>
+          <InputClassDef Format="2">
+            <ClassDef glyph="glyph00143" class="2"/>
+            <ClassDef glyph="glyph00150" class="1"/>
+            <ClassDef glyph="glyph00153" class="1"/>
+            <ClassDef glyph="glyph00160" class="1"/>
+            <ClassDef glyph="glyph00161" class="1"/>
+            <ClassDef glyph="glyph00168" class="1"/>
+            <ClassDef glyph="glyph00169" class="1"/>
+            <ClassDef glyph="glyph00170" class="1"/>
+            <ClassDef glyph="glyph00174" class="1"/>
+            <ClassDef glyph="glyph00184" class="1"/>
+            <ClassDef glyph="glyph00193" class="1"/>
+            <ClassDef glyph="glyph00196" class="1"/>
+            <ClassDef glyph="glyph00197" class="1"/>
+            <ClassDef glyph="glyph00198" class="1"/>
+            <ClassDef glyph="glyph00204" class="1"/>
+            <ClassDef glyph="glyph00205" class="1"/>
+            <ClassDef glyph="glyph00212" class="1"/>
+            <ClassDef glyph="glyph00214" class="1"/>
+            <ClassDef glyph="glyph00215" class="1"/>
+            <ClassDef glyph="glyph00216" class="1"/>
+            <ClassDef glyph="uni0D62" class="2"/>
+            <ClassDef glyph="uni0D63" class="2"/>
+          </InputClassDef>
+          <LookAheadClassDef Format="2">
+            <ClassDef glyph="glyph00143" class="1"/>
+            <ClassDef glyph="uni0D62" class="1"/>
+            <ClassDef glyph="uni0D63" class="1"/>
+          </LookAheadClassDef>
+          <!-- ChainSubClassSetCount=3 -->
+          <ChainSubClassSet index="1">
+            <!-- ChainSubClassRuleCount=1 -->
+            <ChainSubClassRule index="0">
+              <!-- BacktrackGlyphCount=0 -->
+              <!-- InputGlyphCount=1 -->
+              <!-- LookAheadGlyphCount=1 -->
+              <LookAhead index="0" value="1"/>
+              <!-- SubstCount=1 -->
+              <SubstLookupRecord index="0">
+                <SequenceIndex value="0"/>
+                <LookupListIndex value="11"/>
+              </SubstLookupRecord>
+            </ChainSubClassRule>
+          </ChainSubClassSet>
+          <ChainSubClassSet index="2">
+            <!-- ChainSubClassRuleCount=1 -->
+            <ChainSubClassRule index="0">
+              <!-- BacktrackGlyphCount=1 -->
+              <Backtrack index="0" value="1"/>
+              <!-- InputGlyphCount=1 -->
+              <!-- LookAheadGlyphCount=0 -->
+              <!-- SubstCount=1 -->
+              <SubstLookupRecord index="0">
+                <SequenceIndex value="0"/>
+                <LookupListIndex value="16"/>
+              </SubstLookupRecord>
+            </ChainSubClassRule>
+          </ChainSubClassSet>
+        </ChainContextSubst>
+      </Lookup>
+      <Lookup index="11">
+        <LookupType value="2"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <MultipleSubst index="0" Format="1">
+          <Coverage Format="1">
+            <Glyph value="glyph00150"/>
+            <Glyph value="glyph00153"/>
+            <Glyph value="glyph00160"/>
+            <Glyph value="glyph00161"/>
+            <Glyph value="glyph00168"/>
+            <Glyph value="glyph00169"/>
+            <Glyph value="glyph00170"/>
+            <Glyph value="glyph00174"/>
+            <Glyph value="glyph00184"/>
+            <Glyph value="glyph00193"/>
+            <Glyph value="glyph00196"/>
+            <Glyph value="glyph00197"/>
+            <Glyph value="glyph00198"/>
+            <Glyph value="glyph00204"/>
+            <Glyph value="glyph00205"/>
+            <Glyph value="glyph00212"/>
+            <Glyph value="glyph00214"/>
+            <Glyph value="glyph00215"/>
+            <Glyph value="glyph00216"/>
+          </Coverage>
+          <!-- SequenceCount=19 -->
+          <Sequence index="0">
+            <!-- GlyphCount=3 -->
+            <Substitute index="0" value="uni0D15"/>
+            <Substitute index="1" value="uni0D4D"/>
+            <Substitute index="2" value="uni0D1F"/>
+          </Sequence>
+          <Sequence index="1">
+            <!-- GlyphCount=3 -->
+            <Substitute index="0" value="uni0D17"/>
+            <Substitute index="1" value="uni0D4D"/>
+            <Substitute index="2" value="uni0D17"/>
+          </Sequence>
+          <Sequence index="2">
+            <!-- GlyphCount=3 -->
+            <Substitute index="0" value="uni0D1A"/>
+            <Substitute index="1" value="uni0D4D"/>
+            <Substitute index="2" value="uni0D1A"/>
+          </Sequence>
+          <Sequence index="3">
+            <!-- GlyphCount=3 -->
+            <Substitute index="0" value="uni0D1A"/>
+            <Substitute index="1" value="uni0D4D"/>
+            <Substitute index="2" value="uni0D1B"/>
+          </Sequence>
+          <Sequence index="4">
+            <!-- GlyphCount=3 -->
+            <Substitute index="0" value="uni0D1F"/>
+            <Substitute index="1" value="uni0D4D"/>
+            <Substitute index="2" value="uni0D1F"/>
+          </Sequence>
+          <Sequence index="5">
+            <!-- GlyphCount=3 -->
+            <Substitute index="0" value="uni0D21"/>
+            <Substitute index="1" value="uni0D4D"/>
+            <Substitute index="2" value="uni0D21"/>
+          </Sequence>
+          <Sequence index="6">
+            <!-- GlyphCount=3 -->
+            <Substitute index="0" value="uni0D21"/>
+            <Substitute index="1" value="uni0D4D"/>
+            <Substitute index="2" value="uni0D22"/>
+          </Sequence>
+          <Sequence index="7">
+            <!-- GlyphCount=3 -->
+            <Substitute index="0" value="uni0D23"/>
+            <Substitute index="1" value="uni0D4D"/>
+            <Substitute index="2" value="uni0D23"/>
+          </Sequence>
+          <Sequence index="8">
+            <!-- GlyphCount=3 -->
+            <Substitute index="0" value="uni0D26"/>
+            <Substitute index="1" value="uni0D4D"/>
+            <Substitute index="2" value="uni0D26"/>
+          </Sequence>
+          <Sequence index="9">
+            <!-- GlyphCount=3 -->
+            <Substitute index="0" value="uni0D2A"/>
+            <Substitute index="1" value="uni0D4D"/>
+            <Substitute index="2" value="uni0D2A"/>
+          </Sequence>
+          <Sequence index="10">
+            <!-- GlyphCount=3 -->
+            <Substitute index="0" value="uni0D2C"/>
+            <Substitute index="1" value="uni0D4D"/>
+            <Substitute index="2" value="uni0D2C"/>
+          </Sequence>
+          <Sequence index="11">
+            <!-- GlyphCount=3 -->
+            <Substitute index="0" value="uni0D2C"/>
+            <Substitute index="1" value="uni0D4D"/>
+            <Substitute index="2" value="uni0D26"/>
+          </Sequence>
+          <Sequence index="12">
+            <!-- GlyphCount=3 -->
+            <Substitute index="0" value="uni0D2C"/>
+            <Substitute index="1" value="uni0D4D"/>
+            <Substitute index="2" value="uni0D27"/>
+          </Sequence>
+          <Sequence index="13">
+            <!-- GlyphCount=3 -->
+            <Substitute index="0" value="uni0D31"/>
+            <Substitute index="1" value="uni0D4D"/>
+            <Substitute index="2" value="uni0D31"/>
+          </Sequence>
+          <Sequence index="14">
+            <!-- GlyphCount=3 -->
+            <Substitute index="0" value="uni0D32"/>
+            <Substitute index="1" value="uni0D4D"/>
+            <Substitute index="2" value="uni0D2A"/>
+          </Sequence>
+          <Sequence index="15">
+            <!-- GlyphCount=3 -->
+            <Substitute index="0" value="uni0D36"/>
+            <Substitute index="1" value="uni0D4D"/>
+            <Substitute index="2" value="uni0D36"/>
+          </Sequence>
+          <Sequence index="16">
+            <!-- GlyphCount=3 -->
+            <Substitute index="0" value="uni0D37"/>
+            <Substitute index="1" value="uni0D4D"/>
+            <Substitute index="2" value="uni0D1F"/>
+          </Sequence>
+          <Sequence index="17">
+            <!-- GlyphCount=4 -->
+            <Substitute index="0" value="uni0D38"/>
+            <Substitute index="1" value="uni0D4D"/>
+            <Substitute index="2" value="glyph00133"/>
+            <Substitute index="3" value="uni0D31"/>
+          </Sequence>
+          <Sequence index="18">
+            <!-- GlyphCount=3 -->
+            <Substitute index="0" value="uni0D38"/>
+            <Substitute index="1" value="uni0D4D"/>
+            <Substitute index="2" value="uni0D38"/>
+          </Sequence>
+        </MultipleSubst>
+      </Lookup>
+      <Lookup index="12">
+        <LookupType value="4"/>
+        <LookupFlag value="512"/>
+        <!-- SubTableCount=1 -->
+        <LigatureSubst index="0" Format="1">
+          <LigatureSet glyph="glyph00180">
+            <Ligature components="glyph00143" glyph="glyph00181"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0D15">
+            <Ligature components="glyph00143" glyph="glyph00151"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0D17">
+            <Ligature components="glyph00143" glyph="glyph00157"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0D1F">
+            <Ligature components="uni0D62" glyph="glyph00239"/>
+            <Ligature components="uni0D63" glyph="glyph00247"/>
+            <Ligature components="glyph00143" glyph="glyph00222"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0D20">
+            <Ligature components="uni0D62" glyph="glyph00240"/>
+            <Ligature components="uni0D63" glyph="glyph00248"/>
+            <Ligature components="glyph00143" glyph="glyph00223"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0D24">
+            <Ligature components="glyph00143" glyph="glyph00183"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0D26">
+            <Ligature components="uni0D62" glyph="glyph00241"/>
+            <Ligature components="uni0D63" glyph="glyph00249"/>
+            <Ligature components="glyph00143" glyph="glyph00224"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0D2A">
+            <Ligature components="glyph00143" glyph="glyph00194"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0D2B">
+            <Ligature components="glyph00143" glyph="glyph00195"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0D2C">
+            <Ligature components="glyph00143" glyph="glyph00199"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0D2D">
+            <Ligature components="uni0D62" glyph="glyph00242"/>
+            <Ligature components="uni0D63" glyph="glyph00250"/>
+            <Ligature components="glyph00143" glyph="glyph00225"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0D2E">
+            <Ligature components="uni0D62" glyph="glyph00243"/>
+            <Ligature components="uni0D63" glyph="glyph00251"/>
+            <Ligature components="glyph00143" glyph="glyph00202"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0D2F">
+            <Ligature components="glyph00145" glyph="glyph00203"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0D30">
+            <Ligature components="uni0D62" glyph="glyph00244"/>
+            <Ligature components="uni0D63" glyph="glyph00252"/>
+            <Ligature components="glyph00143" glyph="glyph00226"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0D31">
+            <Ligature components="uni0D62" glyph="glyph00245"/>
+            <Ligature components="uni0D63" glyph="glyph00253"/>
+            <Ligature components="glyph00143" glyph="glyph00227"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0D32">
+            <Ligature components="glyph00143" glyph="glyph00206"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0D34">
+            <Ligature components="uni0D62" glyph="glyph00246"/>
+            <Ligature components="uni0D63" glyph="glyph00254"/>
+            <Ligature components="glyph00143" glyph="glyph00228"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0D35">
+            <Ligature components="glyph00143" glyph="glyph00208"/>
+            <Ligature components="glyph00146" glyph="glyph00209"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0D36">
+            <Ligature components="glyph00143" glyph="glyph00213"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0D38">
+            <Ligature components="glyph00143" glyph="glyph00218"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0D39">
+            <Ligature components="glyph00143" glyph="glyph00221"/>
+          </LigatureSet>
+        </LigatureSubst>
+      </Lookup>
+      <Lookup index="13">
+        <LookupType value="6"/>
+        <LookupFlag value="512"/>
+        <!-- SubTableCount=1 -->
+        <ChainContextSubst index="0" Format="2">
+          <Coverage Format="1">
+            <Glyph value="glyph00147"/>
+          </Coverage>
+          <BacktrackClassDef Format="1">
+            <ClassDef glyph="uni0000" class="1"/>
+          </BacktrackClassDef>
+          <InputClassDef Format="1">
+            <ClassDef glyph="glyph00147" class="1"/>
+          </InputClassDef>
+          <LookAheadClassDef Format="2">
+            <ClassDef glyph="glyph00161" class="1"/>
+            <ClassDef glyph="glyph00168" class="1"/>
+            <ClassDef glyph="glyph00202" class="1"/>
+            <ClassDef glyph="glyph00207" class="1"/>
+            <ClassDef glyph="glyph00222" class="1"/>
+            <ClassDef glyph="glyph00223" class="1"/>
+            <ClassDef glyph="glyph00224" class="1"/>
+            <ClassDef glyph="glyph00225" class="1"/>
+            <ClassDef glyph="glyph00226" class="1"/>
+            <ClassDef glyph="glyph00227" class="1"/>
+            <ClassDef glyph="glyph00228" class="1"/>
+            <ClassDef glyph="uni0D33" class="1"/>
+          </LookAheadClassDef>
+          <!-- ChainSubClassSetCount=2 -->
+          <ChainSubClassSet index="1">
+            <!-- ChainSubClassRuleCount=1 -->
+            <ChainSubClassRule index="0">
+              <!-- BacktrackGlyphCount=0 -->
+              <!-- InputGlyphCount=1 -->
+              <!-- LookAheadGlyphCount=1 -->
+              <LookAhead index="0" value="1"/>
+              <!-- SubstCount=1 -->
+              <SubstLookupRecord index="0">
+                <SequenceIndex value="0"/>
+                <LookupListIndex value="14"/>
+              </SubstLookupRecord>
+            </ChainSubClassRule>
+          </ChainSubClassSet>
+        </ChainContextSubst>
+      </Lookup>
+      <Lookup index="14">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="glyph00147" out="glyph00236"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="15">
+        <LookupType value="6"/>
+        <LookupFlag value="512"/>
+        <!-- SubTableCount=1 -->
+        <ChainContextSubst index="0" Format="2">
+          <Coverage Format="1">
+            <Glyph value="uni0D41"/>
+            <Glyph value="uni0D42"/>
+            <Glyph value="uni0D43"/>
+            <Glyph value="uni0D44"/>
+            <Glyph value="uni0D62"/>
+            <Glyph value="uni0D63"/>
+            <Glyph value="glyph00145"/>
+            <Glyph value="glyph00146"/>
+          </Coverage>
+          <BacktrackClassDef Format="2">
+            <ClassDef glyph="glyph00143" class="1"/>
+            <ClassDef glyph="glyph00144" class="1"/>
+            <ClassDef glyph="glyph00145" class="1"/>
+            <ClassDef glyph="glyph00146" class="1"/>
+            <ClassDef glyph="glyph00150" class="1"/>
+            <ClassDef glyph="glyph00151" class="1"/>
+            <ClassDef glyph="glyph00153" class="1"/>
+            <ClassDef glyph="glyph00157" class="1"/>
+            <ClassDef glyph="glyph00160" class="1"/>
+            <ClassDef glyph="glyph00161" class="1"/>
+            <ClassDef glyph="glyph00168" class="1"/>
+            <ClassDef glyph="glyph00169" class="1"/>
+            <ClassDef glyph="glyph00170" class="1"/>
+            <ClassDef glyph="glyph00174" class="1"/>
+            <ClassDef glyph="glyph00181" class="1"/>
+            <ClassDef glyph="glyph00183" class="1"/>
+            <ClassDef glyph="glyph00184" class="1"/>
+            <ClassDef glyph="glyph00190" class="1"/>
+            <ClassDef glyph="glyph00193" class="1"/>
+            <ClassDef glyph="glyph00194" class="1"/>
+            <ClassDef glyph="glyph00195" class="1"/>
+            <ClassDef glyph="glyph00196" class="1"/>
+            <ClassDef glyph="glyph00197" class="1"/>
+            <ClassDef glyph="glyph00198" class="1"/>
+            <ClassDef glyph="glyph00199" class="1"/>
+            <ClassDef glyph="glyph00202" class="1"/>
+            <ClassDef glyph="glyph00203" class="1"/>
+            <ClassDef glyph="glyph00204" class="1"/>
+            <ClassDef glyph="glyph00205" class="1"/>
+            <ClassDef glyph="glyph00206" class="1"/>
+            <ClassDef glyph="glyph00207" class="1"/>
+            <ClassDef glyph="glyph00208" class="1"/>
+            <ClassDef glyph="glyph00209" class="1"/>
+            <ClassDef glyph="glyph00212" class="1"/>
+            <ClassDef glyph="glyph00213" class="1"/>
+            <ClassDef glyph="glyph00214" class="1"/>
+            <ClassDef glyph="glyph00215" class="1"/>
+            <ClassDef glyph="glyph00216" class="1"/>
+            <ClassDef glyph="glyph00218" class="1"/>
+            <ClassDef glyph="glyph00221" class="1"/>
+            <ClassDef glyph="glyph00222" class="1"/>
+            <ClassDef glyph="glyph00223" class="1"/>
+            <ClassDef glyph="glyph00224" class="1"/>
+            <ClassDef glyph="glyph00225" class="1"/>
+            <ClassDef glyph="glyph00226" class="1"/>
+            <ClassDef glyph="glyph00227" class="1"/>
+            <ClassDef glyph="glyph00228" class="1"/>
+            <ClassDef glyph="glyph00234" class="1"/>
+            <ClassDef glyph="glyph00235" class="1"/>
+            <ClassDef glyph="uni0D33" class="1"/>
+          </BacktrackClassDef>
+          <InputClassDef Format="2">
+            <ClassDef glyph="glyph00145" class="1"/>
+            <ClassDef glyph="glyph00146" class="1"/>
+            <ClassDef glyph="uni0D41" class="1"/>
+            <ClassDef glyph="uni0D42" class="1"/>
+            <ClassDef glyph="uni0D43" class="1"/>
+            <ClassDef glyph="uni0D44" class="1"/>
+            <ClassDef glyph="uni0D62" class="1"/>
+            <ClassDef glyph="uni0D63" class="1"/>
+          </InputClassDef>
+          <LookAheadClassDef Format="1">
+            <ClassDef glyph="uni0000" class="1"/>
+          </LookAheadClassDef>
+          <!-- ChainSubClassSetCount=2 -->
+          <ChainSubClassSet index="1">
+            <!-- ChainSubClassRuleCount=1 -->
+            <ChainSubClassRule index="0">
+              <!-- BacktrackGlyphCount=1 -->
+              <Backtrack index="0" value="1"/>
+              <!-- InputGlyphCount=1 -->
+              <!-- LookAheadGlyphCount=0 -->
+              <!-- SubstCount=1 -->
+              <SubstLookupRecord index="0">
+                <SequenceIndex value="0"/>
+                <LookupListIndex value="16"/>
+              </SubstLookupRecord>
+            </ChainSubClassRule>
+          </ChainSubClassSet>
+        </ChainContextSubst>
+      </Lookup>
+      <Lookup index="16">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="2">
+          <Substitution in="glyph00143" out="glyph00144"/>
+          <Substitution in="glyph00145" out="glyph00234"/>
+          <Substitution in="glyph00146" out="glyph00235"/>
+          <Substitution in="uni0D41" out="glyph00230"/>
+          <Substitution in="uni0D42" out="glyph00231"/>
+          <Substitution in="uni0D43" out="glyph00232"/>
+          <Substitution in="uni0D44" out="glyph00233"/>
+          <Substitution in="uni0D62" out="glyph00237"/>
+          <Substitution in="uni0D63" out="glyph00238"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="17">
+        <LookupType value="4"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <LigatureSubst index="0" Format="1">
+          <LigatureSet glyph="uni0D15">
+            <Ligature components="uni0D4D,afii301" glyph="uni0D7F"/>
+            <Ligature components="uni0D4D" glyph="glyph00106"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0D16">
+            <Ligature components="uni0D4D" glyph="glyph00107"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0D17">
+            <Ligature components="uni0D4D" glyph="glyph00108"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0D18">
+            <Ligature components="uni0D4D" glyph="glyph00109"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0D19">
+            <Ligature components="uni0D4D" glyph="glyph00110"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0D1A">
+            <Ligature components="uni0D4D" glyph="glyph00111"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0D1B">
+            <Ligature components="uni0D4D" glyph="glyph00112"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0D1C">
+            <Ligature components="uni0D4D" glyph="glyph00113"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0D1D">
+            <Ligature components="uni0D4D" glyph="glyph00114"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0D1E">
+            <Ligature components="uni0D4D" glyph="glyph00115"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0D1F">
+            <Ligature components="uni0D4D" glyph="glyph00116"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0D20">
+            <Ligature components="uni0D4D" glyph="glyph00117"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0D21">
+            <Ligature components="uni0D4D" glyph="glyph00118"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0D22">
+            <Ligature components="uni0D4D" glyph="glyph00119"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0D23">
+            <Ligature components="uni0D4D,afii301" glyph="uni0D7A"/>
+            <Ligature components="uni0D4D" glyph="glyph00120"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0D24">
+            <Ligature components="uni0D4D" glyph="glyph00121"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0D25">
+            <Ligature components="uni0D4D" glyph="glyph00122"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0D26">
+            <Ligature components="uni0D4D" glyph="glyph00123"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0D27">
+            <Ligature components="uni0D4D" glyph="glyph00124"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0D28">
+            <Ligature components="uni0D4D,afii301" glyph="uni0D7B"/>
+            <Ligature components="uni0D4D" glyph="glyph00125"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0D2A">
+            <Ligature components="uni0D4D" glyph="glyph00126"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0D2B">
+            <Ligature components="uni0D4D" glyph="glyph00127"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0D2C">
+            <Ligature components="uni0D4D" glyph="glyph00128"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0D2D">
+            <Ligature components="uni0D4D" glyph="glyph00129"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0D2E">
+            <Ligature components="uni0D4D" glyph="glyph00130"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0D2F">
+            <Ligature components="uni0D4D" glyph="glyph00131"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0D30">
+            <Ligature components="uni0D4D,afii301" glyph="uni0D7C"/>
+            <Ligature components="uni0D4D" glyph="glyph00132"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0D31">
+            <Ligature components="uni0D4D,afii301" glyph="uni0D7C"/>
+            <Ligature components="uni0D4D" glyph="glyph00133"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0D32">
+            <Ligature components="uni0D4D,afii301" glyph="uni0D7D"/>
+            <Ligature components="uni0D4D" glyph="glyph00134"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0D33">
+            <Ligature components="uni0D4D,afii301" glyph="uni0D7E"/>
+            <Ligature components="uni0D4D" glyph="glyph00135"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0D34">
+            <Ligature components="uni0D4D" glyph="glyph00136"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0D35">
+            <Ligature components="uni0D4D" glyph="glyph00137"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0D36">
+            <Ligature components="uni0D4D" glyph="glyph00138"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0D37">
+            <Ligature components="uni0D4D" glyph="glyph00139"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0D38">
+            <Ligature components="uni0D4D" glyph="glyph00140"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0D39">
+            <Ligature components="uni0D4D" glyph="glyph00141"/>
+          </LigatureSet>
+        </LigatureSubst>
+      </Lookup>
+      <Lookup index="18">
+        <LookupType value="4"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <LigatureSubst index="0" Format="1">
+          <LigatureSet glyph="uni0D32">
+            <Ligature components="uni0D4D" glyph="glyph00143"/>
+          </LigatureSet>
+        </LigatureSubst>
+      </Lookup>
+      <Lookup index="19">
+        <LookupType value="4"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <LigatureSubst index="0" Format="1">
+          <LigatureSet glyph="uni0D2F">
+            <Ligature components="uni0D4D" glyph="glyph00145"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0D30">
+            <Ligature components="uni0D4D" glyph="glyph00147"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0D35">
+            <Ligature components="uni0D4D" glyph="glyph00146"/>
+          </LigatureSet>
+        </LigatureSubst>
+      </Lookup>
+      <Lookup index="20">
+        <LookupType value="6"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <ChainContextSubst index="0" Format="1">
+          <Coverage Format="1">
+            <Glyph value="glyph00143"/>
+          </Coverage>
+          <!-- ChainSubRuleSetCount=1 -->
+          <ChainSubRuleSet index="0">
+            <!-- ChainSubRuleCount=8 -->
+            <ChainSubRule index="0">
+              <!-- BacktrackGlyphCount=1 -->
+              <Backtrack index="0" value="glyph00145"/>
+              <!-- InputGlyphCount=1 -->
+              <!-- LookAheadGlyphCount=0 -->
+              <!-- SubstCount=1 -->
+              <SubstLookupRecord index="0">
+                <SequenceIndex value="0"/>
+                <LookupListIndex value="21"/>
+              </SubstLookupRecord>
+            </ChainSubRule>
+            <ChainSubRule index="1">
+              <!-- BacktrackGlyphCount=2 -->
+              <Backtrack index="0" value="glyph00145"/>
+              <Backtrack index="1" value="glyph00147"/>
+              <!-- InputGlyphCount=1 -->
+              <!-- LookAheadGlyphCount=0 -->
+              <!-- SubstCount=1 -->
+              <SubstLookupRecord index="0">
+                <SequenceIndex value="0"/>
+                <LookupListIndex value="21"/>
+              </SubstLookupRecord>
+            </ChainSubRule>
+            <ChainSubRule index="2">
+              <!-- BacktrackGlyphCount=2 -->
+              <Backtrack index="0" value="glyph00147"/>
+              <Backtrack index="1" value="glyph00145"/>
+              <!-- InputGlyphCount=1 -->
+              <!-- LookAheadGlyphCount=0 -->
+              <!-- SubstCount=1 -->
+              <SubstLookupRecord index="0">
+                <SequenceIndex value="0"/>
+                <LookupListIndex value="21"/>
+              </SubstLookupRecord>
+            </ChainSubRule>
+            <ChainSubRule index="3">
+              <!-- BacktrackGlyphCount=1 -->
+              <Backtrack index="0" value="glyph00146"/>
+              <!-- InputGlyphCount=1 -->
+              <!-- LookAheadGlyphCount=0 -->
+              <!-- SubstCount=1 -->
+              <SubstLookupRecord index="0">
+                <SequenceIndex value="0"/>
+                <LookupListIndex value="21"/>
+              </SubstLookupRecord>
+            </ChainSubRule>
+            <ChainSubRule index="4">
+              <!-- BacktrackGlyphCount=2 -->
+              <Backtrack index="0" value="glyph00146"/>
+              <Backtrack index="1" value="glyph00147"/>
+              <!-- InputGlyphCount=1 -->
+              <!-- LookAheadGlyphCount=0 -->
+              <!-- SubstCount=1 -->
+              <SubstLookupRecord index="0">
+                <SequenceIndex value="0"/>
+                <LookupListIndex value="21"/>
+              </SubstLookupRecord>
+            </ChainSubRule>
+            <ChainSubRule index="5">
+              <!-- BacktrackGlyphCount=2 -->
+              <Backtrack index="0" value="glyph00147"/>
+              <Backtrack index="1" value="glyph00146"/>
+              <!-- InputGlyphCount=1 -->
+              <!-- LookAheadGlyphCount=0 -->
+              <!-- SubstCount=1 -->
+              <SubstLookupRecord index="0">
+                <SequenceIndex value="0"/>
+                <LookupListIndex value="21"/>
+              </SubstLookupRecord>
+            </ChainSubRule>
+            <ChainSubRule index="6">
+              <!-- BacktrackGlyphCount=1 -->
+              <Backtrack index="0" value="glyph00143"/>
+              <!-- InputGlyphCount=1 -->
+              <!-- LookAheadGlyphCount=0 -->
+              <!-- SubstCount=1 -->
+              <SubstLookupRecord index="0">
+                <SequenceIndex value="0"/>
+                <LookupListIndex value="21"/>
+              </SubstLookupRecord>
+            </ChainSubRule>
+            <ChainSubRule index="7">
+              <!-- BacktrackGlyphCount=1 -->
+              <Backtrack index="0" value="glyph00144"/>
+              <!-- InputGlyphCount=1 -->
+              <!-- LookAheadGlyphCount=0 -->
+              <!-- SubstCount=1 -->
+              <SubstLookupRecord index="0">
+                <SequenceIndex value="0"/>
+                <LookupListIndex value="21"/>
+              </SubstLookupRecord>
+            </ChainSubRule>
+          </ChainSubRuleSet>
+        </ChainContextSubst>
+      </Lookup>
+      <Lookup index="21">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="glyph00143" out="glyph00144"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="22">
+        <LookupType value="4"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <LigatureSubst index="0" Format="1">
+          <LigatureSet glyph="glyph00106">
+            <Ligature components="uni0D15" glyph="glyph00148"/>
+            <Ligature components="uni0D24" glyph="glyph00149"/>
+            <Ligature components="uni0D37" glyph="glyph00152"/>
+          </LigatureSet>
+          <LigatureSet glyph="glyph00108">
+            <Ligature components="uni0D17" glyph="glyph00153"/>
+            <Ligature components="uni0D26" glyph="glyph00154"/>
+            <Ligature components="uni0D28" glyph="glyph00156"/>
+            <Ligature components="uni0D2E" glyph="glyph00155"/>
+          </LigatureSet>
+          <LigatureSet glyph="glyph00110">
+            <Ligature components="uni0D15" glyph="glyph00158"/>
+            <Ligature components="uni0D19" glyph="glyph00159"/>
+          </LigatureSet>
+          <LigatureSet glyph="glyph00111">
+            <Ligature components="uni0D1A" glyph="glyph00160"/>
+            <Ligature components="uni0D1B" glyph="glyph00161"/>
+          </LigatureSet>
+          <LigatureSet glyph="glyph00113">
+            <Ligature components="uni0D1C" glyph="glyph00162"/>
+            <Ligature components="uni0D1E" glyph="glyph00163"/>
+          </LigatureSet>
+          <LigatureSet glyph="glyph00115">
+            <Ligature components="uni0D1A" glyph="glyph00164"/>
+            <Ligature components="uni0D1B" glyph="glyph00165"/>
+            <Ligature components="uni0D1C" glyph="glyph00166"/>
+            <Ligature components="uni0D1E" glyph="glyph00167"/>
+          </LigatureSet>
+          <LigatureSet glyph="glyph00116">
+            <Ligature components="uni0D1F" glyph="glyph00168"/>
+          </LigatureSet>
+          <LigatureSet glyph="glyph00118">
+            <Ligature components="uni0D21" glyph="glyph00169"/>
+            <Ligature components="uni0D22" glyph="glyph00170"/>
+          </LigatureSet>
+          <LigatureSet glyph="glyph00120">
+            <Ligature components="uni0D1F" glyph="glyph00175"/>
+            <Ligature components="uni0D21" glyph="glyph00171"/>
+            <Ligature components="uni0D22" glyph="glyph00172"/>
+            <Ligature components="uni0D23" glyph="glyph00174"/>
+            <Ligature components="uni0D2E" glyph="glyph00173"/>
+          </LigatureSet>
+          <LigatureSet glyph="glyph00121">
+            <Ligature components="uni0D24" glyph="glyph00180"/>
+            <Ligature components="uni0D25" glyph="glyph00182"/>
+            <Ligature components="uni0D28" glyph="glyph00176"/>
+            <Ligature components="uni0D2D" glyph="glyph00177"/>
+            <Ligature components="uni0D2E" glyph="glyph00178"/>
+            <Ligature components="uni0D38" glyph="glyph00179"/>
+          </LigatureSet>
+          <LigatureSet glyph="glyph00123">
+            <Ligature components="uni0D26" glyph="glyph00184"/>
+            <Ligature components="uni0D27" glyph="glyph00185"/>
+          </LigatureSet>
+          <LigatureSet glyph="glyph00125">
+            <Ligature components="uni0D24" glyph="glyph00191"/>
+            <Ligature components="uni0D25" glyph="glyph00192"/>
+            <Ligature components="uni0D26" glyph="glyph00186"/>
+            <Ligature components="uni0D27" glyph="glyph00187"/>
+            <Ligature components="uni0D28" glyph="glyph00188"/>
+            <Ligature components="uni0D2E" glyph="glyph00189"/>
+            <Ligature components="uni0D31" glyph="glyph00190"/>
+          </LigatureSet>
+          <LigatureSet glyph="glyph00126">
+            <Ligature components="uni0D2A" glyph="glyph00193"/>
+          </LigatureSet>
+          <LigatureSet glyph="glyph00128">
+            <Ligature components="uni0D2C" glyph="glyph00196"/>
+          </LigatureSet>
+          <LigatureSet glyph="glyph00130">
+            <Ligature components="uni0D2A" glyph="glyph00201"/>
+            <Ligature components="uni0D2E" glyph="glyph00200"/>
+          </LigatureSet>
+          <LigatureSet glyph="glyph00133">
+            <Ligature components="uni0D31" glyph="glyph00204"/>
+          </LigatureSet>
+          <LigatureSet glyph="glyph00134">
+            <Ligature components="uni0D2A" glyph="glyph00205"/>
+          </LigatureSet>
+          <LigatureSet glyph="glyph00135">
+            <Ligature components="uni0D33" glyph="glyph00207"/>
+          </LigatureSet>
+          <LigatureSet glyph="glyph00138">
+            <Ligature components="uni0D1A" glyph="glyph00210"/>
+            <Ligature components="uni0D1B" glyph="glyph00211"/>
+            <Ligature components="uni0D36" glyph="glyph00212"/>
+          </LigatureSet>
+          <LigatureSet glyph="glyph00140">
+            <Ligature components="uni0D25" glyph="glyph00217"/>
+            <Ligature components="uni0D38" glyph="glyph00216"/>
+            <Ligature components="glyph00133,uni0D31" glyph="glyph00215"/>
+          </LigatureSet>
+          <LigatureSet glyph="glyph00141">
+            <Ligature components="uni0D28" glyph="glyph00220"/>
+            <Ligature components="uni0D2E" glyph="glyph00219"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0D15">
+            <Ligature components="afii301,uni0D4D,uni0D1F" glyph="glyph00150"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0D17">
+            <Ligature components="afii301,uni0D4D,uni0D26" glyph="glyph00154"/>
+            <Ligature components="afii301,uni0D4D,uni0D28" glyph="glyph00156"/>
+            <Ligature components="afii301,uni0D4D,uni0D2E" glyph="glyph00155"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0D1E">
+            <Ligature components="afii301,uni0D4D,uni0D1B" glyph="glyph00165"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0D23">
+            <Ligature components="afii301,uni0D4D,uni0D22" glyph="glyph00172"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0D24">
+            <Ligature components="afii301,uni0D4D,uni0D2D" glyph="glyph00177"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0D28">
+            <Ligature components="afii301,uni0D4D,uni0D25" glyph="glyph00192"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0D2C">
+            <Ligature components="afii301,uni0D4D,uni0D26" glyph="glyph00197"/>
+            <Ligature components="afii301,uni0D4D,uni0D27" glyph="glyph00198"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0D2F">
+            <Ligature components="glyph00145" glyph="glyph00203"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0D32">
+            <Ligature components="afii301,uni0D4D,uni0D2A" glyph="glyph00205"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0D35">
+            <Ligature components="glyph00146" glyph="glyph00209"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0D36">
+            <Ligature components="afii301,uni0D4D,uni0D1B" glyph="glyph00211"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0D37">
+            <Ligature components="afii301,uni0D4D,uni0D1F" glyph="glyph00214"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0D38">
+            <Ligature components="afii301,uni0D4D,uni0D25" glyph="glyph00217"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0D39">
+            <Ligature components="afii301,uni0D4D,uni0D28" glyph="glyph00220"/>
+            <Ligature components="afii301,uni0D4D,uni0D2E" glyph="glyph00219"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0D7B">
+            <Ligature components="uni0D31" glyph="glyph00190"/>
+          </LigatureSet>
+        </LigatureSubst>
+      </Lookup>
+      <Lookup index="23">
+        <LookupType value="5"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <ContextSubst index="0" Format="2">
+          <Coverage Format="1">
+            <Glyph value="glyph00133"/>
+            <Glyph value="glyph00136"/>
+          </Coverage>
+          <ClassDef Format="2">
+            <ClassDef glyph="glyph00133" class="1"/>
+            <ClassDef glyph="glyph00136" class="1"/>
+            <ClassDef glyph="uni0D33" class="2"/>
+          </ClassDef>
+          <!-- SubClassSetCount=3 -->
+          <SubClassSet index="1">
+            <!-- SubClassRuleCount=1 -->
+            <SubClassRule index="0">
+              <!-- GlyphCount=2 -->
+              <!-- SubstCount=2 -->
+              <Class index="0" value="2"/>
+              <SubstLookupRecord index="0">
+                <SequenceIndex value="0"/>
+                <LookupListIndex value="24"/>
+              </SubstLookupRecord>
+              <SubstLookupRecord index="1">
+                <SequenceIndex value="1"/>
+                <LookupListIndex value="25"/>
+              </SubstLookupRecord>
+            </SubClassRule>
+          </SubClassSet>
+        </ContextSubst>
+      </Lookup>
+      <Lookup index="24">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="glyph00133" out="uni0D31"/>
+          <Substitution in="glyph00136" out="uni0D34"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="25">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="uni0D33" out="glyph00143"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="26">
+        <LookupType value="5"/>
+        <LookupFlag value="512"/>
+        <!-- SubTableCount=1 -->
+        <ContextSubst index="0" Format="1">
+          <Coverage Format="1">
+            <Glyph value="uni0D33"/>
+            <Glyph value="glyph00207"/>
+          </Coverage>
+          <!-- SubRuleSetCount=2 -->
+          <SubRuleSet index="0">
+            <!-- SubRuleCount=1 -->
+            <SubRule index="0">
+              <!-- GlyphCount=2 -->
+              <!-- SubstCount=1 -->
+              <Input index="0" value="glyph00143"/>
+              <SubstLookupRecord index="0">
+                <SequenceIndex value="1"/>
+                <LookupListIndex value="27"/>
+              </SubstLookupRecord>
+            </SubRule>
+          </SubRuleSet>
+          <SubRuleSet index="1">
+            <!-- SubRuleCount=1 -->
+            <SubRule index="0">
+              <!-- GlyphCount=2 -->
+              <!-- SubstCount=1 -->
+              <Input index="0" value="glyph00143"/>
+              <SubstLookupRecord index="0">
+                <SequenceIndex value="1"/>
+                <LookupListIndex value="27"/>
+              </SubstLookupRecord>
+            </SubRule>
+          </SubRuleSet>
+        </ContextSubst>
+      </Lookup>
+      <Lookup index="27">
+        <LookupType value="2"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <MultipleSubst index="0" Format="1">
+          <Coverage Format="1">
+            <Glyph value="glyph00143"/>
+          </Coverage>
+          <!-- SequenceCount=1 -->
+          <Sequence index="0">
+            <!-- GlyphCount=2 -->
+            <Substitute index="0" value="uni0D4D"/>
+            <Substitute index="1" value="uni0D32"/>
+          </Sequence>
+        </MultipleSubst>
+      </Lookup>
+      <Lookup index="28">
+        <LookupType value="6"/>
+        <LookupFlag value="512"/>
+        <!-- SubTableCount=1 -->
+        <ChainContextSubst index="0" Format="2">
+          <Coverage Format="1">
+            <Glyph value="uni0D62"/>
+            <Glyph value="uni0D63"/>
+            <Glyph value="glyph00143"/>
+            <Glyph value="glyph00150"/>
+            <Glyph value="glyph00153"/>
+            <Glyph value="glyph00160"/>
+            <Glyph value="glyph00161"/>
+            <Glyph value="glyph00168"/>
+            <Glyph value="glyph00169"/>
+            <Glyph value="glyph00170"/>
+            <Glyph value="glyph00174"/>
+            <Glyph value="glyph00184"/>
+            <Glyph value="glyph00193"/>
+            <Glyph value="glyph00196"/>
+            <Glyph value="glyph00197"/>
+            <Glyph value="glyph00198"/>
+            <Glyph value="glyph00204"/>
+            <Glyph value="glyph00205"/>
+            <Glyph value="glyph00209"/>
+            <Glyph value="glyph00212"/>
+            <Glyph value="glyph00214"/>
+            <Glyph value="glyph00215"/>
+            <Glyph value="glyph00216"/>
+          </Coverage>
+          <BacktrackClassDef Format="1">
+            <ClassDef glyph="glyph00190" class="1"/>
+          </BacktrackClassDef>
+          <InputClassDef Format="2">
+            <ClassDef glyph="glyph00143" class="2"/>
+            <ClassDef glyph="glyph00150" class="1"/>
+            <ClassDef glyph="glyph00153" class="1"/>
+            <ClassDef glyph="glyph00160" class="1"/>
+            <ClassDef glyph="glyph00161" class="1"/>
+            <ClassDef glyph="glyph00168" class="1"/>
+            <ClassDef glyph="glyph00169" class="1"/>
+            <ClassDef glyph="glyph00170" class="1"/>
+            <ClassDef glyph="glyph00174" class="1"/>
+            <ClassDef glyph="glyph00184" class="1"/>
+            <ClassDef glyph="glyph00193" class="1"/>
+            <ClassDef glyph="glyph00196" class="1"/>
+            <ClassDef glyph="glyph00197" class="1"/>
+            <ClassDef glyph="glyph00198" class="1"/>
+            <ClassDef glyph="glyph00204" class="1"/>
+            <ClassDef glyph="glyph00205" class="1"/>
+            <ClassDef glyph="glyph00209" class="1"/>
+            <ClassDef glyph="glyph00212" class="1"/>
+            <ClassDef glyph="glyph00214" class="1"/>
+            <ClassDef glyph="glyph00215" class="1"/>
+            <ClassDef glyph="glyph00216" class="1"/>
+            <ClassDef glyph="uni0D62" class="2"/>
+            <ClassDef glyph="uni0D63" class="2"/>
+          </InputClassDef>
+          <LookAheadClassDef Format="2">
+            <ClassDef glyph="glyph00143" class="1"/>
+            <ClassDef glyph="uni0D62" class="1"/>
+            <ClassDef glyph="uni0D63" class="1"/>
+          </LookAheadClassDef>
+          <!-- ChainSubClassSetCount=3 -->
+          <ChainSubClassSet index="1">
+            <!-- ChainSubClassRuleCount=1 -->
+            <ChainSubClassRule index="0">
+              <!-- BacktrackGlyphCount=0 -->
+              <!-- InputGlyphCount=1 -->
+              <!-- LookAheadGlyphCount=1 -->
+              <LookAhead index="0" value="1"/>
+              <!-- SubstCount=1 -->
+              <SubstLookupRecord index="0">
+                <SequenceIndex value="0"/>
+                <LookupListIndex value="29"/>
+              </SubstLookupRecord>
+            </ChainSubClassRule>
+          </ChainSubClassSet>
+          <ChainSubClassSet index="2">
+            <!-- ChainSubClassRuleCount=1 -->
+            <ChainSubClassRule index="0">
+              <!-- BacktrackGlyphCount=1 -->
+              <Backtrack index="0" value="1"/>
+              <!-- InputGlyphCount=1 -->
+              <!-- LookAheadGlyphCount=0 -->
+              <!-- SubstCount=1 -->
+              <SubstLookupRecord index="0">
+                <SequenceIndex value="0"/>
+                <LookupListIndex value="34"/>
+              </SubstLookupRecord>
+            </ChainSubClassRule>
+          </ChainSubClassSet>
+        </ChainContextSubst>
+      </Lookup>
+      <Lookup index="29">
+        <LookupType value="2"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <MultipleSubst index="0" Format="1">
+          <Coverage Format="1">
+            <Glyph value="glyph00150"/>
+            <Glyph value="glyph00153"/>
+            <Glyph value="glyph00160"/>
+            <Glyph value="glyph00161"/>
+            <Glyph value="glyph00168"/>
+            <Glyph value="glyph00169"/>
+            <Glyph value="glyph00170"/>
+            <Glyph value="glyph00174"/>
+            <Glyph value="glyph00184"/>
+            <Glyph value="glyph00193"/>
+            <Glyph value="glyph00196"/>
+            <Glyph value="glyph00197"/>
+            <Glyph value="glyph00198"/>
+            <Glyph value="glyph00204"/>
+            <Glyph value="glyph00205"/>
+            <Glyph value="glyph00209"/>
+            <Glyph value="glyph00212"/>
+            <Glyph value="glyph00214"/>
+            <Glyph value="glyph00215"/>
+            <Glyph value="glyph00216"/>
+          </Coverage>
+          <!-- SequenceCount=20 -->
+          <Sequence index="0">
+            <!-- GlyphCount=2 -->
+            <Substitute index="0" value="glyph00106"/>
+            <Substitute index="1" value="uni0D1F"/>
+          </Sequence>
+          <Sequence index="1">
+            <!-- GlyphCount=2 -->
+            <Substitute index="0" value="glyph00108"/>
+            <Substitute index="1" value="uni0D17"/>
+          </Sequence>
+          <Sequence index="2">
+            <!-- GlyphCount=2 -->
+            <Substitute index="0" value="glyph00111"/>
+            <Substitute index="1" value="uni0D1A"/>
+          </Sequence>
+          <Sequence index="3">
+            <!-- GlyphCount=2 -->
+            <Substitute index="0" value="glyph00111"/>
+            <Substitute index="1" value="uni0D1B"/>
+          </Sequence>
+          <Sequence index="4">
+            <!-- GlyphCount=2 -->
+            <Substitute index="0" value="glyph00116"/>
+            <Substitute index="1" value="uni0D1F"/>
+          </Sequence>
+          <Sequence index="5">
+            <!-- GlyphCount=2 -->
+            <Substitute index="0" value="glyph00118"/>
+            <Substitute index="1" value="uni0D21"/>
+          </Sequence>
+          <Sequence index="6">
+            <!-- GlyphCount=2 -->
+            <Substitute index="0" value="glyph00118"/>
+            <Substitute index="1" value="uni0D22"/>
+          </Sequence>
+          <Sequence index="7">
+            <!-- GlyphCount=2 -->
+            <Substitute index="0" value="glyph00120"/>
+            <Substitute index="1" value="uni0D23"/>
+          </Sequence>
+          <Sequence index="8">
+            <!-- GlyphCount=2 -->
+            <Substitute index="0" value="glyph00123"/>
+            <Substitute index="1" value="uni0D26"/>
+          </Sequence>
+          <Sequence index="9">
+            <!-- GlyphCount=2 -->
+            <Substitute index="0" value="glyph00126"/>
+            <Substitute index="1" value="uni0D2A"/>
+          </Sequence>
+          <Sequence index="10">
+            <!-- GlyphCount=2 -->
+            <Substitute index="0" value="glyph00128"/>
+            <Substitute index="1" value="uni0D2C"/>
+          </Sequence>
+          <Sequence index="11">
+            <!-- GlyphCount=2 -->
+            <Substitute index="0" value="glyph00128"/>
+            <Substitute index="1" value="uni0D26"/>
+          </Sequence>
+          <Sequence index="12">
+            <!-- GlyphCount=2 -->
+            <Substitute index="0" value="glyph00128"/>
+            <Substitute index="1" value="uni0D27"/>
+          </Sequence>
+          <Sequence index="13">
+            <!-- GlyphCount=2 -->
+            <Substitute index="0" value="glyph00133"/>
+            <Substitute index="1" value="uni0D31"/>
+          </Sequence>
+          <Sequence index="14">
+            <!-- GlyphCount=2 -->
+            <Substitute index="0" value="glyph00134"/>
+            <Substitute index="1" value="uni0D2A"/>
+          </Sequence>
+          <Sequence index="15">
+            <!-- GlyphCount=2 -->
+            <Substitute index="0" value="glyph00137"/>
+            <Substitute index="1" value="uni0D35"/>
+          </Sequence>
+          <Sequence index="16">
+            <!-- GlyphCount=2 -->
+            <Substitute index="0" value="glyph00138"/>
+            <Substitute index="1" value="uni0D36"/>
+          </Sequence>
+          <Sequence index="17">
+            <!-- GlyphCount=2 -->
+            <Substitute index="0" value="glyph00139"/>
+            <Substitute index="1" value="uni0D1F"/>
+          </Sequence>
+          <Sequence index="18">
+            <!-- GlyphCount=3 -->
+            <Substitute index="0" value="glyph00140"/>
+            <Substitute index="1" value="glyph00133"/>
+            <Substitute index="2" value="uni0D31"/>
+          </Sequence>
+          <Sequence index="19">
+            <!-- GlyphCount=2 -->
+            <Substitute index="0" value="glyph00140"/>
+            <Substitute index="1" value="uni0D38"/>
+          </Sequence>
+        </MultipleSubst>
+      </Lookup>
+      <Lookup index="30">
+        <LookupType value="4"/>
+        <LookupFlag value="512"/>
+        <!-- SubTableCount=1 -->
+        <LigatureSubst index="0" Format="1">
+          <LigatureSet glyph="glyph00180">
+            <Ligature components="glyph00143" glyph="glyph00181"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0D15">
+            <Ligature components="glyph00143" glyph="glyph00151"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0D17">
+            <Ligature components="glyph00143" glyph="glyph00157"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0D1F">
+            <Ligature components="uni0D62" glyph="glyph00239"/>
+            <Ligature components="uni0D63" glyph="glyph00247"/>
+            <Ligature components="glyph00143" glyph="glyph00222"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0D20">
+            <Ligature components="uni0D62" glyph="glyph00240"/>
+            <Ligature components="uni0D63" glyph="glyph00248"/>
+            <Ligature components="glyph00143" glyph="glyph00223"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0D24">
+            <Ligature components="glyph00143" glyph="glyph00183"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0D26">
+            <Ligature components="uni0D62" glyph="glyph00241"/>
+            <Ligature components="uni0D63" glyph="glyph00249"/>
+            <Ligature components="glyph00143" glyph="glyph00224"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0D2A">
+            <Ligature components="glyph00143" glyph="glyph00194"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0D2B">
+            <Ligature components="glyph00143" glyph="glyph00195"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0D2C">
+            <Ligature components="glyph00143" glyph="glyph00199"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0D2D">
+            <Ligature components="uni0D62" glyph="glyph00242"/>
+            <Ligature components="uni0D63" glyph="glyph00250"/>
+            <Ligature components="glyph00143" glyph="glyph00225"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0D2E">
+            <Ligature components="uni0D62" glyph="glyph00243"/>
+            <Ligature components="uni0D63" glyph="glyph00251"/>
+            <Ligature components="glyph00143" glyph="glyph00202"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0D30">
+            <Ligature components="uni0D62" glyph="glyph00244"/>
+            <Ligature components="uni0D63" glyph="glyph00252"/>
+            <Ligature components="glyph00143" glyph="glyph00226"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0D31">
+            <Ligature components="uni0D62" glyph="glyph00245"/>
+            <Ligature components="uni0D63" glyph="glyph00253"/>
+            <Ligature components="glyph00143" glyph="glyph00227"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0D32">
+            <Ligature components="glyph00143" glyph="glyph00206"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0D34">
+            <Ligature components="uni0D62" glyph="glyph00246"/>
+            <Ligature components="uni0D63" glyph="glyph00254"/>
+            <Ligature components="glyph00143" glyph="glyph00228"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0D35">
+            <Ligature components="glyph00143" glyph="glyph00208"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0D36">
+            <Ligature components="glyph00143" glyph="glyph00213"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0D38">
+            <Ligature components="glyph00143" glyph="glyph00218"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0D39">
+            <Ligature components="glyph00143" glyph="glyph00221"/>
+          </LigatureSet>
+        </LigatureSubst>
+      </Lookup>
+      <Lookup index="31">
+        <LookupType value="6"/>
+        <LookupFlag value="512"/>
+        <!-- SubTableCount=1 -->
+        <ChainContextSubst index="0" Format="2">
+          <Coverage Format="1">
+            <Glyph value="glyph00147"/>
+          </Coverage>
+          <BacktrackClassDef Format="2">
+            <ClassDef glyph="glyph00135" class="1"/>
+            <ClassDef glyph="glyph00161" class="1"/>
+            <ClassDef glyph="glyph00168" class="1"/>
+            <ClassDef glyph="glyph00202" class="1"/>
+            <ClassDef glyph="glyph00207" class="1"/>
+            <ClassDef glyph="glyph00222" class="1"/>
+            <ClassDef glyph="glyph00223" class="1"/>
+            <ClassDef glyph="glyph00224" class="1"/>
+            <ClassDef glyph="glyph00225" class="1"/>
+            <ClassDef glyph="glyph00226" class="1"/>
+            <ClassDef glyph="glyph00227" class="1"/>
+            <ClassDef glyph="glyph00228" class="1"/>
+            <ClassDef glyph="uni0D33" class="1"/>
+          </BacktrackClassDef>
+          <InputClassDef Format="1">
+            <ClassDef glyph="glyph00147" class="1"/>
+          </InputClassDef>
+          <LookAheadClassDef Format="2">
+            <ClassDef glyph="glyph00135" class="1"/>
+            <ClassDef glyph="glyph00161" class="1"/>
+            <ClassDef glyph="glyph00168" class="1"/>
+            <ClassDef glyph="glyph00202" class="1"/>
+            <ClassDef glyph="glyph00207" class="1"/>
+            <ClassDef glyph="glyph00222" class="1"/>
+            <ClassDef glyph="glyph00223" class="1"/>
+            <ClassDef glyph="glyph00224" class="1"/>
+            <ClassDef glyph="glyph00225" class="1"/>
+            <ClassDef glyph="glyph00226" class="1"/>
+            <ClassDef glyph="glyph00227" class="1"/>
+            <ClassDef glyph="glyph00228" class="1"/>
+            <ClassDef glyph="uni0D33" class="1"/>
+          </LookAheadClassDef>
+          <!-- ChainSubClassSetCount=2 -->
+          <ChainSubClassSet index="1">
+            <!-- ChainSubClassRuleCount=2 -->
+            <ChainSubClassRule index="0">
+              <!-- BacktrackGlyphCount=0 -->
+              <!-- InputGlyphCount=1 -->
+              <!-- LookAheadGlyphCount=1 -->
+              <LookAhead index="0" value="1"/>
+              <!-- SubstCount=1 -->
+              <SubstLookupRecord index="0">
+                <SequenceIndex value="0"/>
+                <LookupListIndex value="32"/>
+              </SubstLookupRecord>
+            </ChainSubClassRule>
+            <ChainSubClassRule index="1">
+              <!-- BacktrackGlyphCount=1 -->
+              <Backtrack index="0" value="1"/>
+              <!-- InputGlyphCount=1 -->
+              <!-- LookAheadGlyphCount=0 -->
+              <!-- SubstCount=1 -->
+              <SubstLookupRecord index="0">
+                <SequenceIndex value="0"/>
+                <LookupListIndex value="32"/>
+              </SubstLookupRecord>
+            </ChainSubClassRule>
+          </ChainSubClassSet>
+        </ChainContextSubst>
+      </Lookup>
+      <Lookup index="32">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="glyph00147" out="glyph00236"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="33">
+        <LookupType value="6"/>
+        <LookupFlag value="512"/>
+        <!-- SubTableCount=1 -->
+        <ChainContextSubst index="0" Format="2">
+          <Coverage Format="1">
+            <Glyph value="uni0D41"/>
+            <Glyph value="uni0D42"/>
+            <Glyph value="uni0D43"/>
+            <Glyph value="uni0D44"/>
+            <Glyph value="uni0D62"/>
+            <Glyph value="uni0D63"/>
+            <Glyph value="glyph00145"/>
+            <Glyph value="glyph00146"/>
+          </Coverage>
+          <BacktrackClassDef Format="2">
+            <ClassDef glyph="glyph00135" class="1"/>
+            <ClassDef glyph="glyph00143" class="1"/>
+            <ClassDef glyph="glyph00144" class="1"/>
+            <ClassDef glyph="glyph00145" class="1"/>
+            <ClassDef glyph="glyph00146" class="1"/>
+            <ClassDef glyph="glyph00150" class="1"/>
+            <ClassDef glyph="glyph00151" class="1"/>
+            <ClassDef glyph="glyph00153" class="1"/>
+            <ClassDef glyph="glyph00157" class="1"/>
+            <ClassDef glyph="glyph00160" class="1"/>
+            <ClassDef glyph="glyph00161" class="1"/>
+            <ClassDef glyph="glyph00168" class="1"/>
+            <ClassDef glyph="glyph00169" class="1"/>
+            <ClassDef glyph="glyph00170" class="1"/>
+            <ClassDef glyph="glyph00174" class="1"/>
+            <ClassDef glyph="glyph00181" class="1"/>
+            <ClassDef glyph="glyph00183" class="1"/>
+            <ClassDef glyph="glyph00184" class="1"/>
+            <ClassDef glyph="glyph00190" class="1"/>
+            <ClassDef glyph="glyph00193" class="1"/>
+            <ClassDef glyph="glyph00194" class="1"/>
+            <ClassDef glyph="glyph00195" class="1"/>
+            <ClassDef glyph="glyph00196" class="1"/>
+            <ClassDef glyph="glyph00197" class="1"/>
+            <ClassDef glyph="glyph00198" class="1"/>
+            <ClassDef glyph="glyph00199" class="1"/>
+            <ClassDef glyph="glyph00202" class="1"/>
+            <ClassDef glyph="glyph00203" class="1"/>
+            <ClassDef glyph="glyph00204" class="1"/>
+            <ClassDef glyph="glyph00205" class="1"/>
+            <ClassDef glyph="glyph00206" class="1"/>
+            <ClassDef glyph="glyph00207" class="1"/>
+            <ClassDef glyph="glyph00208" class="1"/>
+            <ClassDef glyph="glyph00209" class="1"/>
+            <ClassDef glyph="glyph00212" class="1"/>
+            <ClassDef glyph="glyph00213" class="1"/>
+            <ClassDef glyph="glyph00214" class="1"/>
+            <ClassDef glyph="glyph00215" class="1"/>
+            <ClassDef glyph="glyph00216" class="1"/>
+            <ClassDef glyph="glyph00218" class="1"/>
+            <ClassDef glyph="glyph00221" class="1"/>
+            <ClassDef glyph="glyph00222" class="1"/>
+            <ClassDef glyph="glyph00223" class="1"/>
+            <ClassDef glyph="glyph00224" class="1"/>
+            <ClassDef glyph="glyph00225" class="1"/>
+            <ClassDef glyph="glyph00226" class="1"/>
+            <ClassDef glyph="glyph00227" class="1"/>
+            <ClassDef glyph="glyph00228" class="1"/>
+            <ClassDef glyph="glyph00234" class="1"/>
+            <ClassDef glyph="glyph00235" class="1"/>
+            <ClassDef glyph="uni0D33" class="1"/>
+          </BacktrackClassDef>
+          <InputClassDef Format="2">
+            <ClassDef glyph="glyph00145" class="1"/>
+            <ClassDef glyph="glyph00146" class="1"/>
+            <ClassDef glyph="uni0D41" class="1"/>
+            <ClassDef glyph="uni0D42" class="1"/>
+            <ClassDef glyph="uni0D43" class="1"/>
+            <ClassDef glyph="uni0D44" class="1"/>
+            <ClassDef glyph="uni0D62" class="1"/>
+            <ClassDef glyph="uni0D63" class="1"/>
+          </InputClassDef>
+          <LookAheadClassDef Format="1">
+            <ClassDef glyph="uni0000" class="1"/>
+          </LookAheadClassDef>
+          <!-- ChainSubClassSetCount=2 -->
+          <ChainSubClassSet index="1">
+            <!-- ChainSubClassRuleCount=1 -->
+            <ChainSubClassRule index="0">
+              <!-- BacktrackGlyphCount=1 -->
+              <Backtrack index="0" value="1"/>
+              <!-- InputGlyphCount=1 -->
+              <!-- LookAheadGlyphCount=0 -->
+              <!-- SubstCount=1 -->
+              <SubstLookupRecord index="0">
+                <SequenceIndex value="0"/>
+                <LookupListIndex value="34"/>
+              </SubstLookupRecord>
+            </ChainSubClassRule>
+          </ChainSubClassSet>
+        </ChainContextSubst>
+      </Lookup>
+      <Lookup index="34">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="2">
+          <Substitution in="glyph00143" out="glyph00144"/>
+          <Substitution in="glyph00145" out="glyph00234"/>
+          <Substitution in="glyph00146" out="glyph00235"/>
+          <Substitution in="uni0D41" out="glyph00230"/>
+          <Substitution in="uni0D42" out="glyph00231"/>
+          <Substitution in="uni0D43" out="glyph00232"/>
+          <Substitution in="uni0D44" out="glyph00233"/>
+          <Substitution in="uni0D62" out="glyph00237"/>
+          <Substitution in="uni0D63" out="glyph00238"/>
+        </SingleSubst>
+      </Lookup>
+    </LookupList>
+  </GSUB>
+
+</ttFont>
